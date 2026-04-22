@@ -1,33 +1,27 @@
-# Builders FirstSource (builders-firstsource)
-Builders FirstSource is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Builders FirstSource.
+# Builders FirstSource
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/builders-firstsource/refs/heads/main/apis.yml)
+Builders FirstSource (NYSE: BLDR) is the nation's largest supplier and manufacturer of structural building products, value-added components, and construction services to the professional market for single-family and multi-family construction. The company operates approximately 570 locations across 43 states with 28,000 team members, headquartered in Irving, Texas.
 
-## Scope
+**URL:** [https://www.bldr.com](https://www.bldr.com)
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Tags
 
-## Tags:
-
- - Fortune 500
+- Building Materials, Construction, Manufacturing, Supply Chain
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
-
-## APIs
-
-No public APIs have been documented yet. Contributions welcome.
+- **Modified:** 2026-04-21
 
 ## Common Properties
 
-- [Website](https://www.builders-firstsource.com)
+- [Website](https://www.bldr.com)
+- [Investor Relations](https://investors.bldr.com)
+- [Careers](https://careers.bldr.com)
+- [myBLDR Digital Platform](https://www.bldr.com/digital-tools/mybldr)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
