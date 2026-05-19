@@ -22,6 +22,8 @@ tags:
   - Supply Chain
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/builders-firstsource
   - type: Website
     url: https://www.bldr.com
   - type: InvestorRelations
