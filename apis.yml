@@ -22,6 +22,8 @@ tags:
   - Supply Chain
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/builders-firstsource-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/builders-firstsource
   - type: Website
@@ -32,6 +34,8 @@ common:
     url: https://careers.bldr.com
   - type: DigitalPlatform
     url: https://www.bldr.com/digital-tools/mybldr
+  - type: Blog
+    url: https://www.bldr.com/resources/blog
   - name: Use Cases
     type: UseCases
     data:
